@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: Where screenplay meets production.
-    subtitle: 'To the cast, crew and producers,'
+    subtitle: 'To the cast, crew and producers.'
     actions:
       - label: Learn More
         url: /features
