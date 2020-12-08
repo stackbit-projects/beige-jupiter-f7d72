@@ -46,7 +46,7 @@ sections:
           - label: Learn More
             url: /features
             style: secondary
-      - title: Feature 3
+      - title: Production
         content: >-
           Id nibh tortor id aliquet lectus proin. Amet venenatis urna cursus
           eget nunc. Lacus sed turpis tincidunt id aliquet risus feugiat in
