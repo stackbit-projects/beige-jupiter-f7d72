@@ -25,10 +25,8 @@ sections:
     title: Features
     features:
       - title: Screenplay
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+        content: |
+          Write, share, and collaborate.
         align: left
         image: images/feature.svg
         image_position: right
